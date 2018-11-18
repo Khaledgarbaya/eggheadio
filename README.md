@@ -1,2 +1,2 @@
-# eggheadio
-Lessons and courses code 
+# eggheadio Lessons and courses
+code for courses and lessons I publish on egghead.io
